@@ -54,5 +54,8 @@
   "bugs": {
     "url": "https://github.com/wazdar/myCKEditor-document-editor/issues"
   },
-  "homepage": "https://github.com/wazdar/myCKEditor-document-editor#readme"
+  "homepage": "https://github.com/wazdar/myCKEditor-document-editor#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@wazdar"
+  }
 }
