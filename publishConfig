@@ -1,0 +1,22 @@
+{
+  "name": "CKEditor - Custom Document Editor",
+  "version": "1.0.0",
+  "description": "Simple build with a lot of plugins",
+  "main": "build/ckeditor.js",
+  "types": "build/ckeditor.js",
+  "scripts": {
+    "test": "mocha --timeout 60000 --exit -r ts-node/register test/**/*.spec.ts",
+    "build": "tsc",
+    "deploy": "npm publish"
+  },
+  "author": "WazDar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wazdar/myCKEditor-document-editor.git"
+  },
+  .........................
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@wazdar"
+  }
+}
