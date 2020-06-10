@@ -1,6 +1,6 @@
 # CKEditor Custom build
 
-CKeditor with insttaled plugins:
+CKEditor with insttaled plugins:<br>
 	Alignment,
 	Autoformat,
 	BlockQuote,
@@ -45,3 +45,4 @@ CKeditor with insttaled plugins:
 npm run build
 ```
 
+![screenshot](/doc/img/image_one.PNG)
