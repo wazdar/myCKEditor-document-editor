@@ -78,7 +78,6 @@ Editor.builtinPlugins = [
 	TableProperties,
 	TableToolbar,
 	TextTransformation,
-	Title,
 	TodoList,
 	Underline
 ];

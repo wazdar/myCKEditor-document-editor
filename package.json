@@ -2,7 +2,7 @@
   "name": "myckeditor-document-editor",
   "author": "WazDar",
   "description": "Simple build with a lot of plugins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "ISC",
   "devDependencies": {
     "@ckeditor/ckeditor5-alignment": "^19.0.1",
