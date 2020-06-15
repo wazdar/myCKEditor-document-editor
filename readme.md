@@ -35,7 +35,6 @@ CKEditor with insttaled plugins:<br>
 	TableProperties,
 	TableToolbar,
 	TextTransformation,
-	Title,
 	TodoList,
 	Underline
 
